@@ -1,1 +1,15 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+  }
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  html {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+  }
